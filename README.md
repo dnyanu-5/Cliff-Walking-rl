@@ -7,10 +7,12 @@ Tabular reinforcement learning on the `CliffWalking-v1` environment from [Gymnas
 
 ## Demo
 
+### SARSA
 
-| SARSA | Q-learning |
-|---|---|
-| _add video/GIF here_ | _add video/GIF here_ |
+https://github.com/user-attachments/assets/bc7a7869-8f24-46f3-b6cd-51deb596578c
+### Q-learning
+
+https://github.com/user-attachments/assets/285e979a-de8f-48db-bf14-d5c9b95c3a3a
 
 ## The Environment
 
