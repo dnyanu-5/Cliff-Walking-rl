@@ -53,7 +53,7 @@ Q-learning: Q(s,a) ← Q(s,a) + α [ r + γ max_a' Q(s',a') − Q(s,a) ]
 
 ## Results
 
-![CliffWalking game](assets/game.PNG)
+![CliffWalking game](assets/game.png)
 
 
 ## Project Structure
